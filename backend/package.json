@@ -1,0 +1,14 @@
+{
+  "name": "teamfight-tracker-backend",
+  "version": "0.1.0",
+  "description": "Server and Database for Teamfight Tracker.",
+  "main": "src/server.js",
+  "repository": "https://github.com/biczak/Teamfight-Tracker",
+  "author": "Alex Biczak <alex@biczak.dev>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
